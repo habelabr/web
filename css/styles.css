@@ -1,0 +1,254 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Inter", Arial, sans-serif;
+  background-color: #F3F0D7;
+  color: #5E454B;
+}
+
+.habel {
+  color: #313638;
+}
+
+.html-logo {
+  width: 35%;
+  float: right;
+  margin-right: 10%;
+}
+
+.html-text {
+  text-align: justify;
+}
+
+.css-logo {
+  width: 35%;
+  float: left;
+  margin-right: 10%;
+}
+
+.css-text {
+  text-align: left;
+}
+
+hr {
+  border: none;
+  border-top: 3px double #9D9D9D;
+  color: #5E454B;
+  overflow: visible;
+  text-align: center;
+  height: 5px;
+}
+
+hr:after {
+    background: #F3F0D7;
+    content: '§';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+h1 {
+  width: 20%;
+  font-size: 4rem;
+  margin: 0 auto;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-top: 10px;
+  color: #5E454B;
+}
+
+.python-logo {
+  width: 35%;
+  float: left;
+  margin-right: 10%;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #5E454B;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 45px auto;
+  /* padding: auto 20%; */
+  line-height: 2;
+}
+
+.education-details {
+  width: 50%;
+  line-height: 2;
+  margin: 30px auto;
+}
+
+.python-text {
+  text-align: left;
+}
+
+.intro {
+  width: 50%;
+  margin: 30px auto;
+  line-height: 2;
+}
+
+.activities-ui {
+  margin: 35px;
+}
+
+.activities-33 {
+  margin: 35px;
+}
+
+.acc-33 {
+  margin: 30px;
+}
+
+.top-container {
+  background-color: #F7D59C;
+  border-color: black;
+  position: relative;
+  padding: 20px;
+  /* padding-top: 100px; */
+  line-height: 1;
+}
+
+
+.sman-33 {
+  padding-left: 50px;
+  padding-right: 50px;
+  margin: auto;
+}
+
+.econ {
+  text-decoration: underline;
+}
+
+.coding {
+  font-weight: bold;
+  color: #313638;
+}
+
+.love {
+  color: #8B0000;
+}
+
+.love-emoji {
+  color: #FC0E0E;
+}
+
+.education {
+  margin: 30px;
+}
+
+.mountain-img {
+  display: none;
+}
+
+.cloud-img-1 {
+  display: none;
+  position: absolute;
+  right: 22%;
+  top: 50px;
+}
+
+.cloud-img-2 {
+  display: none;
+  position: absolute;
+  left: 20%;
+  top: 250px;
+}
+
+.ui-pict {
+  width: 35%;
+}
+
+.sman-33-pict {
+  width: 45%;
+}
+
+.profile-pict {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.profile {
+  margin: 30px auto;
+}
+
+.contact-me {
+  margin-top: 30px;
+}
+
+.logos {
+  margin-bottom: 30px;
+}
+
+.mail {
+  position: relative;
+  right: 50px;
+}
+
+.linkedin {
+  position: relative;
+  bottom: 44px;
+}
+
+.twitter {
+  position: relative;
+  bottom: 50px;
+  left: 50px;
+  bottom: 88px
+}
+
+.mail-logo {
+  background: transparent;
+  display: inline;
+  border: none;
+  outline: none;
+}
+
+.mail-pic {
+  width: 40px;
+  height: 40px;
+  display: inline;
+}
+
+.linkedin-logo {
+  background: transparent;
+  display: inline;
+  border: none;
+  outline: none;
+}
+
+.linkedin-pic {
+  width: 40px;
+  height: 40px;
+  display: inline;
+}
+
+.twitter-logo {
+  background: transparent;
+  display: inline;
+  border: none;
+  outline: none;
+}
+
+.twitter-pic {
+  width: 40px;
+  height: 40px;
+  display: inline;
+}
+
+.bottom-container {
+  width: 100%;
+}
+
+.footer {
+  background-color: #5E454B;
+  color: #F7D59C;
+}
+
+footer {
+  padding: 1%;
+  margin-top: 0;
+}
